@@ -1,0 +1,19 @@
+.li:hover .btn {
+  display: inline;
+  position: absolute;
+}
+.li {
+  width: 10%;
+}
+
+.btn {
+  margin-left: 10px;
+  background-color: transparent;
+  border: 1px solid rgb(255, 184, 184);
+  border-radius: 5px;
+  display: none;
+  outline: none;
+}
+.btn:hover {
+  background-color: rgb(77, 121, 255);
+}
